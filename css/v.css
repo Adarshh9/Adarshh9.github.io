@@ -1,0 +1,6 @@
+.block-9 {
+    height: 100vh; /* Set the height of the block to 100% viewport height */
+}
+.contact-form {
+    height: 100%; /* Make the form fill the entire height of its container */
+}
